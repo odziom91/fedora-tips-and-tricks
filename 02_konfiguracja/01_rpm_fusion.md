@@ -4,3 +4,5 @@ Aby móc instalować oprogramowanie / sterowniki niewolne należy dodać repozyt
 
 Komenda:
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+Po zatwierdzeniu zainstalowania pakietu można używać nowego repozytorium.

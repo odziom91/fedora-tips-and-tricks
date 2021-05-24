@@ -44,8 +44,8 @@ Po zainstalowaniu sterowników należy odczekać do dwóch minut, a następnie u
 
 ## AMD
 
-todo :(
+Karty graficzne od AMD działają bardzo dobrze na otwartoźródłowym sterowniku. Nie jest wymagana dodatkowa akcja ze strony użytkownika.
 
 ## Intel
 
-todo :(
+Zintegrowane karty graficzne od Intela działają bardzo dobrze na otwartoźródłowym sterowniku. Nie jest wymagana dodatkowa akcja ze strony użytkownika.

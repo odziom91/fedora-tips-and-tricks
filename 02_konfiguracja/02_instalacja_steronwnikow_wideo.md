@@ -30,3 +30,6 @@ sudo dnf update -y
 sudo dnf install xorg-x11-drv-nvidia-340xx akmod-nvidia-340xx
 
 sudo dnf install xorg-x11-drv-nvidia-340xx-cuda #optional for cuda up to 6.5 support
+
+
+Po zainstalowaniu sterowników należy odczekać do dwóch minut, a następnie uruchomić ponownie system.

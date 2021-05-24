@@ -1,6 +1,6 @@
-# 3.1 Dodatkowe repozytoria
+# 2.4 dnf - dodatkowe repozytoria
 
-W tym rozdziale znajdziesz opcjonalne repozytoria.
+W tym rozdziale znajdziesz opcjonalne repozytoria dla oprogramowania niedostępnego w oficjalnym repozytorium i RPM Fusion.
 
 ### Opera
 ```
@@ -15,14 +15,20 @@ enabled=1
 RPMREPO
 ```
 Instalacja wersji stabilnej:
-```sudo dnf install opera-stable```
+```
+sudo dnf install opera-stable
+```
 Instalacja wersji deweloperskiej:
-```sudo dnf install opera-developer```
+```
+sudo dnf install opera-developer
+```
 
 ### Microsoft Teams
 
 Zaimportuj klucz:
-```sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc```
+```
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+```
 
 Dodaj repozytorium:
 ```
@@ -37,12 +43,16 @@ EOL
 ```
 
 Zainstaluj Teams:
-```sudo dnf install teams```
+```
+sudo dnf install teams
+```
 
 ### Microsoft Visual Studio Code
 
 Zaimportuj klucz:
-```sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc```
+```
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+```
 
 Dodaj repozytorium:
 ```
@@ -50,4 +60,6 @@ sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.m
 ```
 
 Zainstaluj Visual Studio Code:
-```sudo dnf install code```
+```
+sudo dnf install code
+```

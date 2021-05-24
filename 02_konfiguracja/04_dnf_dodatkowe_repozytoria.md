@@ -63,3 +63,13 @@ Zainstaluj Visual Studio Code:
 ```
 sudo dnf install code
 ```
+
+### Microsoft Skype
+Dodaj repozytorium:
+```
+sudo curl -o /etc/yum.repos.d/skype-stable.repo https://repo.skype.com/rpm/stable/skype-stable.repo
+```
+Zainstaluj Skype for Linux:
+```
+sudo dnf install skypeforlinux
+```

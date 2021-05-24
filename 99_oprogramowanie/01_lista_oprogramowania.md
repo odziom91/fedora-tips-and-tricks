@@ -1,5 +1,10 @@
 # 99.1 Lista oprogramowania
 
+## Audio
+### Spotify
+```sudo dnf install lpf-spotify-client```
+
+```lpf update```
 ## Internet
 ### Firefox
 ```sudo dnf install firefox```

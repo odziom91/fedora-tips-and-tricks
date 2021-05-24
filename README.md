@@ -34,7 +34,7 @@
 
 [3.4 Steam](03_gaming/04_steam.md)
 
-[3.5 Proton - uruchamianie gier dla systemu Windows na platformie Steam](03_gaming/05_proton.md)
+[3.5 Proton - uruchamianie gier dla systemu Windows na platformie Steam](03_gaming/05_steam_proton.md)
 
 ## 99. Oprogramowanie
 

@@ -1,6 +1,8 @@
 # 4.7 Programowanie
 
 ## Microsoft Visual Studio Code
+Oprogramowanie dla programistów od firmy Microsoft.
+
 Zaimportuj klucz:
 ```
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc

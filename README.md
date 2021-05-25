@@ -1,4 +1,6 @@
-# Fedora Tips &amp; Tricks
+<img src="./gfx/fedora.svg" style="width:160px"/>
+
+# Tips &amp; Tricks
 
 ## 1. Instalacja [todo]
 
@@ -38,6 +40,14 @@
 
 [3.5 Proton - uruchamianie gier dla systemu Windows na platformie Steam](03_gaming/05_steam_proton.md)
 
+[3.6 Lutris](03_gaming/06_lutris.md)
+
+[3.7 MangoHud](03_gaming/07_mangohud.md)
+
+[3.8 Gamemode](03_gaming/08_gamemode.md)
+
+[3.9 Obsługa padów](03_gaming/09_pady.md)
+
 ## 4. Oprogramowanie
 
 [4.1 Oprogramowanie audio](04_oprogramowanie/01_audio.md)
@@ -54,7 +64,9 @@
 
 [4.7 Programowanie](04_oprogramowanie/07_programowanie.md)
 
-[4.8 Narzędzia](04_oprogramowanie/08_narzedzia.md)
+[4.8 Wirtualizacja](04_oprogramowanie/08_wirtualizacja.md)
+
+[4.9 Narzędzia](04_oprogramowanie/09_narzedzia.md)
 
 [4.10 Lista oprogramowania](04_oprogramowanie/10_lista_oprogramowania.md)
 

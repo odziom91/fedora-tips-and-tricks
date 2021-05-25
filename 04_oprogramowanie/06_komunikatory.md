@@ -1,10 +1,13 @@
 # 4.6 Komunikatory internetowe
 
 ## Discord
+Popularny komunikator tekstowo-głosowy dla graczy (i nie tylko).
 ```
 sudo dnf install discord
 ```
 ## Microsoft Teams
+Komunikator dla szkół i firm od firmy Microsoft.
+
 Zaimportuj klucz:
 ```
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc

@@ -1,4 +1,4 @@
-<img src="./gfx/fedora.svg" style="width:160px"/>
+<img src="./gfx/fedora.svg" alt="Fedora" width="200px"/>
 
 # Tips &amp; Tricks
 

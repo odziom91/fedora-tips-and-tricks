@@ -38,13 +38,30 @@
 
 [3.5 Proton - uruchamianie gier dla systemu Windows na platformie Steam](03_gaming/05_steam_proton.md)
 
+## 4. Oprogramowanie
+
+[4.1 Oprogramowanie audio](04_oprogramowanie/01_audio.md)
+
+[4.2 Oprogramowanie wideo](04_oprogramowanie/02_video.md)
+
+[4.3 Oprogramowanie graficzne](04_oprogramowanie/03_grafika.md)
+
+[4.4 Oprogramowanie biurowe](04_oprogramowanie/04_biuro.md)
+
+[4.5 Oprogramowanie internetowe](04_oprogramowanie/05_internet.md)
+
+[4.6 Komunikatory internetowe](04_oprogramowanie/06_komunikatory.md)
+
+[4.7 Programowanie](04_oprogramowanie/07_programowanie.md)
+
+[4.8 Narzędzia](04_oprogramowanie/08_narzedzia.md)
+
+[4.10 Lista oprogramowania](04_oprogramowanie/10_lista_oprogramowania.md)
+
 ## 10. Zaawansowane możliwości
 
 [10.1 zsh](10_zaawansowane/01_zsh.md)
 
-## 99. Oprogramowanie
-
-[99.1 Lista oprogramowania](99_oprogramowanie/01_lista_oprogramowania.md)
 
 Autor: OdzioM
 

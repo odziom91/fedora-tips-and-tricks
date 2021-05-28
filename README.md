@@ -32,7 +32,7 @@
 
 [3.1 Niestandardowy kernel](03_gaming/01_kernel.md)
 
-[3.2 Obsługa Vulkan](03_gaming/02_vulkan.md)
+[3.2 Vulkan](03_gaming/02_vulkan.md)
 
 [3.3 Wine](03_gaming/03_wine.md)
 

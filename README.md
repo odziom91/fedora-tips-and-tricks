@@ -68,8 +68,6 @@
 
 [4.9 Narzędzia](04_oprogramowanie/09_narzedzia.md)
 
-[4.10 Lista oprogramowania](04_oprogramowanie/10_lista_oprogramowania.md)
-
 ## 10. Zaawansowane możliwości
 
 [10.1 zsh](10_zaawansowane/01_zsh.md)

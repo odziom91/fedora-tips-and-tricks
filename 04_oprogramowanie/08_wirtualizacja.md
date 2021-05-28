@@ -17,5 +17,5 @@ UWAGA!
 Nie dziala z kernelem liquorix!
 ***
 ```
-sudo dnf install virtualbox
+sudo dnf install VirtualBox
 ```

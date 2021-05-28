@@ -34,7 +34,7 @@ dnf update
 ```
 dnf remove <nazwa pakietu>
 ```
-- usuwanie niepotrzebne zależności
+- usuwanie niepotrzebnych zależności
 ```
 dnf autoremove
 ```

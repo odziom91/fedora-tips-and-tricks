@@ -75,7 +75,7 @@
 [10.1 zsh](10_zaawansowane/01_zsh.md)
 
 
-Autor: OdzioM
+Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Ewangelia Pingwina Świętego", kanał #fedora:
+[https://discord.gg/Z4nueNg4](https://discord.gg/Z4nueNg4)
 
-Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Świat Linuksa", kanał #fedora:
-[https://discord.com/invite/69EMVfN](https://discord.com/invite/69EMVfN)
+Autor: OdzioM

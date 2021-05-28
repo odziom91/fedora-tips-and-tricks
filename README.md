@@ -2,13 +2,13 @@
 
 # Tips &amp; Tricks
 
-## 1. Instalacja [todo]
+## 1. Instalacja
 
 [1.1 Pobieranie obrazu systemu Fedora](01_instalacja/01_download.md)
 
 [1.2 Przygotowanie nośnika](01_instalacja/02_przygotowanie_nosnika.md)
 
-[1.3 Konfiguracja BIOS](01_instalacja/03_konfiguracja_bios.md)
+[1.3 Konfiguracja BIOS/UEFI](01_instalacja/03_konfiguracja_bios_uefi.md)
 
 [1.4 Instalacja systemu](01_instalacja/04_instalacja_systemu.md)
 

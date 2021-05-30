@@ -74,6 +74,6 @@
 
 
 Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Ewangelia Pingwina Świętego", kanał #fedora:
-[https://discord.gg/Z4nueNg4](https://discord.gg/Z4nueNg4)
+[https://discord.gg/ZxsTz6RmUK](https://discord.gg/ZxsTz6RmUK)
 
 Autor: OdzioM

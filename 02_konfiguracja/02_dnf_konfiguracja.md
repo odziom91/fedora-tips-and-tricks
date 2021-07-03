@@ -33,4 +33,9 @@ max_parallel_downloads=10
 ip_resolve=4
 ```
 
+- rezygnacja z instalacji "Słabych zależności" (ang. "Weak dependencies"):
+```
+install_weak_deps=False
+```
+
 Po wprowadzeniu zmian pamiętaj o zapisaniu pliku!

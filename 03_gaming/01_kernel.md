@@ -17,13 +17,29 @@ Zawiera patche:
 ***
 UWAGA! 
 
-Kernel-fsync podmienia zainstalowany w systemie domyślny kernel.
+Kernel-fsync podmienia zainstalowany w systemie domyślny kernel. Jeśli chcesz tego uniknąć zapoznaj się z podpunktem b).
 ***
 
+#### a) Instalacja
 ```
 dnf copr enable sentry/kernel-fsync
 dnf update --refresh
 ```
+#### b) Wymuszenie aktualizacji kernel-fsync
+Kernel fsync o dziwo posiada taką samą nazwę pakietu, co domyślny kernel w Fedorze. Po dodaniu repozytorium kernel-fsync i aktualizacjach systemu pakiety zaczną się podmieniać wzajemnie, przez co fsync może być niedostępny.
+
+Aby naprawić tą sytuację wystarczy odnaleźć plik **/etc/yum.repos.d/fedora-updates.repo** i wyedytować jego zawartość.
+
+Po jego otworzeniu, na przykład komendą:
+```
+sudo nano /etc/yum.repos.d/fedora-updates.repo
+```
+należy dopisać w każdej z sekcji (updates, updates-debuginfo oraz updates-source) opcję:e
+```
+exclude=kernel*
+```
+
+Po dopisaniu linii - zapisujemy i zamykamy plik.
 
 ### xanmod
 Zawiera patche:

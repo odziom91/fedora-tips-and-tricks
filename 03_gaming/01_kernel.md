@@ -34,7 +34,7 @@ Po jego otworzeniu, na przykład komendą:
 ```
 sudo nano /etc/yum.repos.d/fedora-updates.repo
 ```
-należy dopisać w każdej z sekcji (updates, updates-debuginfo oraz updates-source) opcję:e
+należy dopisać w każdej z sekcji (updates, updates-debuginfo oraz updates-source) opcję:
 ```
 exclude=kernel*
 ```

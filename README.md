@@ -72,8 +72,10 @@
 
 [10.1 zsh](10_zaawansowane/01_zsh.md)
 
+[10.2 Wyłączenie SELinux](10_zaawansowane/02_selinux.md)
+
 
 Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Ewangelia Pingwina Świętego", kanał #fedora:
-[https://discord.gg/ZxsTz6RmUK](https://discord.gg/ZxsTz6RmUK)
+[https://discord.gg/eps](https://discord.gg/eps)
 
 Autor: OdzioM

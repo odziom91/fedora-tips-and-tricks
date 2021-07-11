@@ -14,6 +14,7 @@ Zawiera patche:
 - fsync
 - futex2
 - zen
+- OpenRGB (od wersji 5.12.9)
 ***
 UWAGA! 
 
@@ -42,29 +43,27 @@ exclude=kernel*
 Po dopisaniu linii - zapisujemy i zamykamy plik.
 
 ### xanmod
-Zawiera patche:
-- esync
-- fsync
-- futex2
+Lista poprawek jakie wnosi kernel xanmod znajduje się tutaj:
+https://copr.fedorainfracloud.org/coprs/rmnscnce/kernel-xanmod/
 ***
 UWAGA! 
 
-Występują problemy z działaniem KVM (wirtualna karta sieciowa). Jeśli potrzebujesz wirtualizacje systemów NIE instaluj tego kernela.
+Jeśli potrzebujesz obsługi QEMU/KVM należy wyłączyć SELinux.
+O tym jak wyłączyć znajdziesz w rozdziale 10.2.
 ***
 ```
 sudo dnf copr enable rmnscnce/kernel-xanmod
-sudo dnf install kernel-xanmod-edge
+sudo dnf install kernel-xanmod-edge kernel-xanmod-edge-headers kernel-xanmod-edge-devel
 ```
 
 ### liquorix
-Zawiera patche:
-- esync
-- fsync
-- futex2
+Lista poprawek jakie wnosi kernel liquorix znajduje się tutaj:
+https://copr.fedorainfracloud.org/coprs/rmnscnce/kernel-lqx/
 ***
 UWAGA! 
 
-Występują problemy z działaniem KVM oraz VirtualBox (brak modułów). Jeśli potrzebujesz wirtualizacje systemów NIE instaluj tego kernela.
+Jeśli potrzebujesz obsługi QEMU/KVM lub VirtualBox należy wyłączyć SELinux.
+O tym jak wyłączyć znajdziesz w rozdziale 10.2.
 ***
 ```
 sudo dnf copr enable rmnscnce/kernel-lqx

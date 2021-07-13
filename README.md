@@ -48,6 +48,8 @@
 
 [3.9 Obsługa padów](03_gaming/09_pady.md)
 
+[3.10 Zmodyfikowane wersje Wine i Proton](03_gaming/10_wine_proton_mods.md)
+
 ## 4. Oprogramowanie
 
 [4.1 Oprogramowanie audio](04_oprogramowanie/01_audio.md)

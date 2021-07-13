@@ -56,40 +56,67 @@ W celu instalacji gier możesz wykorzystać jedną z poniższych metod:
 
 ### 4. Instalacja ze skryptu użytkowników
 1. Po uruchomieniu Lutris wybieramy sekcję "Lutris" w Sources". Następnie będąc w zakładce "Community Installers" wpisujemy do wyszukiwarki nazwę poszukiwanej gry. Po wyszukaniu pozycji klikamy lewym przyciskiem myszy na nią i rozpoczynamy instalację "Install".
+
 ![Lutris](./gfx/lutris_1.png)
+
 ***
 UWAGA! 
 
 Przebieg instalacji może się różnić w zależności od skryptu i jego złożoności. Przedstawony niżej przykład jest reprezentatywny - gra dla systemu Windows pobierana z serwisu GOG - https://gog.com/.
 ***
 2. Pojawi się lista z możliwymi instalacjami do wyboru - w tym przypadku jest dostępna instalacja przez GOG. Klikamy na przycisk "Install", aby kontynuować.
+
 ![Lutris](./gfx/lutris_2.png)
+
 3. W kolejnym oknie wskazujemy ścieżkę, gdzie gra ma zostać zainstalowana - możemy w tym celu wykorzystać przycisk "Browse" i wskazać ścieżkę lub wpisać ją ręcznie. Po dokonaniu wyboru klikamy na przycisk "Install".
+
 ![Lutris](./gfx/lutris_3.png)
+
 4. Skrypt instalacyjny może wymagać pobrania dodatkowego runnera (w tym przypadku Wine 6.10) lub innych plików wymaganych do zainstalowania lub uruchomienia gry. Należy poczekać na zakończenie pobierania i instalacji.
+
 ![Lutris](./gfx/lutris_4.png)
+
 5. Skrypt może wymagać wskazania nośnika instalacji (na przykład płyty CD/DVD), plików instalacyjnych gry (na przykład wcześniej pobranych z GOG) lub pobrania plików z Internetu. W tym celu możemy wybrać akcję za pomocą przycisków przy "Source:". Po dokonaniu wyboru - klikamy na przycisk "Continue".
+
 ![Lutris](./gfx/lutris_5.png)
+
 6. W tym przykładzie pokazany jest proces pobierania gry z platformy GOG. Należy chwilę poczekać na ukończenie pobierania. Po chwili zostanie uruchomiony instalator gry znany z systemu Windows.
+
 ![Lutris](./gfx/lutris_6.png)
+
 7. Instalator gry uruchomił się. Ważne jest to, aby pozostawić domyślną ścieżkę instalacji.
+
 ![Lutris](./gfx/lutris_7.png)
+
 ![Lutris](./gfx/lutris_8.png)
+
 ![Lutris](./gfx/lutris_9.png)
+
 8. Gra instaluje się, należy poczekać na zakończenie działania instalatora.
+
 ![Lutris](./gfx/lutris_10.png)
+
 9. Gra została zainstalowana. Jeśli instalator oferuje funkcję jej włączenia - zignoruj to i wyjdź z instalatora.
+
 ![Lutris](./gfx/lutris_11.png)
+
 10. Lutris poinformuje o zakończeniu procesu instalacji. W tym momencie można utworzyć skróty jeśli są potrzebne, uruchomić grę lub zakończyć działanie.
+
 ![Lutris](./gfx/lutris_12.png)
 
 ### 5. Instalacja z biblioteki gier
 1. Po uruchomieniu Lutris wybieramy odpowiednią bibliotekę gier. Następnie z listy wskazujemy interesującą pozycję i klikamy przycisk "Install".
+
 ![Lutris](./gfx/lutris_13.png)
+
 2. Wyświetli się instalator w którym potwierdzamy sposób instalacji gry.
+
 ![Lutris](./gfx/lutris_14.png)
+
 3. W przypadku platformy Steam instalator zakończy działanie umożliwiając dodanie skrótów. Nie jest to koniec instalacji. Klikamy na przycisk "Launch", aby uruchomić klienta Steam i dokończyć instalację.
+
 ![Lutris](./gfx/lutris_15.png)
+
 W przypadku platform GOG oraz Humble Bundle uruchomi się generowany skrypt, a instalacja będzie podobna do tej z podpunktu 4.
 
 ### 6. Instalacja manualna

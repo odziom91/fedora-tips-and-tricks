@@ -9,7 +9,7 @@ GloriousEggroll - Wine: https://github.com/GloriousEggroll/wine-ge-custom/releas
 
 GloriousEggroll - Proton: https://github.com/GloriousEggroll/proton-ge-custom/releases
 
-Frogging Family - Wine oraz Proton: https://github.com/Kron4ek/Wine-Builds/releases
+Frogging Family - Wine oraz Proton: https://github.com/Frogging-Family/wine-tkg-git/releases
 
 Kron4ek - Wine: https://github.com/Kron4ek/Wine-Builds/releases
 

@@ -3,6 +3,8 @@ MangoHud jest nakładką - benchmarkiem - dla oprogramowania wykorzystującego t
 
 Wyglądem przypomina znany z Windowsa MSI Afterburner z nakładką RivaTuner.
 
+![MangoHud](./gfx/mangohud.png)
+
 ## Instalacja
 ```
 sudo dnf install mangohud

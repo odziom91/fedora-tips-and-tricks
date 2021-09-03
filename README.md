@@ -2,6 +2,12 @@
 
 # Tips &amp; Tricks
 
+## Informacja
+Autor: OdzioM
+
+Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczność Linuksa", kanał #fedora:
+[https://discord.gg/HX3bhN92uK](https://discord.gg/HX3bhN92uK)
+
 ## 1. Instalacja
 
 [1.1 Pobieranie obrazu systemu Fedora](01_instalacja/01_download.md)
@@ -76,8 +82,3 @@
 
 [10.2 Wyłączenie SELinux](10_zaawansowane/02_selinux.md)
 
-
-Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Ewangelia Pingwina Świętego", kanał #fedora:
-[https://discord.gg/eps](https://discord.gg/eps)
-
-Autor: OdzioM

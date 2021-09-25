@@ -6,7 +6,7 @@
 Autor: OdzioM
 
 Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczność Linuksa", kanał #fedora:
-[https://discord.gg/HX3bhN92uK](https://discord.gg/HX3bhN92uK)
+[https://discord.gg/tfsUgwPyVx](https://discord.gg/tfsUgwPyVx)
 
 ## 1. Instalacja
 

@@ -1,6 +1,6 @@
 # 3.6 Lutris
 
-## Czym jest Lutris
+## Czym jest Lutris?
 Lutris jest jedną z kilku aplikacji umożliwiających łatwe instalowanie gier - dla Linuksa, Windowsa, emulatorów konsol (np. PlayStation 3) lub silników gier (np: ScummVM). Dodatkowym atutem aplikacji jest możliwość wykorzystywania skryptów tworzonych przez społeczność oraz wbudowanych funkcji.
 
 ## Instalacja

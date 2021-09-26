@@ -20,6 +20,12 @@ Zalety oh-my-zsh:
 - ponad 140 motywów
 - automatyczna, niezależna od systemu aktualizacja oh-my-zsh
 
+Przed rozpoczęciem instalacji upewnij się, że masz zainstalowany pakiet ```git``` - jeśli go nie masz zainstaluj komendą:
+
+```
+sudo dnf install git
+```
+
 Instalacja oh-my-zsh przy pomocy skyptu:
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

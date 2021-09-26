@@ -82,3 +82,6 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [10.2 Wyłączenie SELinux](10_zaawansowane/02_selinux.md)
 
+[10.3 Fetchcord](10_zaawansowane/03_fetchcord.md)
+
+[10.4 Neofetch](10_zaawansowane/04_neofetch.md)

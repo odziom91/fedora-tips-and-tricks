@@ -43,6 +43,9 @@ exclude=kernel*
 Po dopisaniu linii - zapisujemy i zamykamy plik.
 
 ### xanmod
+
+![Xanmod](./gfx/xanmod_1.png)
+
 Lista poprawek jakie wnosi kernel xanmod znajduje się tutaj:
 https://copr.fedorainfracloud.org/coprs/rmnscnce/kernel-xanmod/
 ***
@@ -57,6 +60,9 @@ sudo dnf install kernel-xanmod-edge kernel-xanmod-edge-headers kernel-xanmod-edg
 ```
 
 ### liquorix
+
+![Liquorix](./gfx/liquorix_1.png)
+
 Lista poprawek jakie wnosi kernel liquorix znajduje się tutaj:
 https://copr.fedorainfracloud.org/coprs/rmnscnce/kernel-lqx/
 ***

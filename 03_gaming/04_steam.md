@@ -8,6 +8,6 @@ sudo dnf install steam
 
 Po zainstalowaniu Steam pojawi się w sekcji Gry.
 
-![Wine](./gfx/steam_1.png)
+![Steam](./gfx/steam_1.png)
 
 Wystarczy go uruchomić, zalogować się i skonfigurować do własnych preferencji.

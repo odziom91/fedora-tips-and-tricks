@@ -18,6 +18,8 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [1.4 Instalacja systemu](01_instalacja/04_instalacja_systemu.md)
 
+[1.5 Aktualizacja systemu Fedora do wersji 35](01_instalacja/05_update_34_do_35.md)
+
 ## 2. Konfiguracja
 
 [2.1 dnf - obsługa menedżera pakietów w konsoli](02_konfiguracja/01_dnf.md)

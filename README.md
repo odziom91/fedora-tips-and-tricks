@@ -3,6 +3,10 @@
 # Tips &amp; Tricks
 
 ## Informacja
+Aktualna wersja systemu Fedora: 35
+
+Data wydania: 2.11.2021
+
 Autor: OdzioM
 
 Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczność Linuksa", kanał #fedora:
@@ -16,9 +20,11 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [1.3 Konfiguracja BIOS/UEFI](01_instalacja/03_konfiguracja_bios_uefi.md)
 
-[1.4 Instalacja systemu](01_instalacja/04_instalacja_systemu.md)
+[1.4 Instalacja systemu Fedora 35](01_instalacja/04_instalacja_fedora_35.md)
 
-[1.5 Aktualizacja systemu Fedora do wersji 35](01_instalacja/05_update_34_do_35.md)
+[1.5 Aktualizacja systemu Fedora 34 do wersji 35](01_instalacja/05_update_34_do_35.md)
+
+[1.99 Instalacja systemu Fedora 34 [poprzednia wersja - niezalecane, wpis archiwalny]](01_instalacja/99_instalacja_fedora_34.md)
 
 ## 2. Konfiguracja
 

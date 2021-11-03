@@ -1,4 +1,4 @@
-# 1.4 Instalacja systemu
+# 1.4 Instalacja systemu Fedora 34
 Ten rozdział pokaże ci krok po kroku jak zainstalować Fedorę na komputerze.
 Na potrzeby tego poradnika wybrano standardową wersję, która jest najchętniej wybierana wśród użytkowników - opartą o środowisko graficzne Gnome.
 Istnieją również inne środowiska graficzne, w tym przeznaczone dla słabszych komputerów - ich spis znajdziesz w rozdziale 1.1.

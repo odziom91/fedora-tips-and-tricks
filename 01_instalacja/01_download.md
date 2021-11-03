@@ -26,7 +26,7 @@ Wszystkie Spiny są dostępne do pobrania pod adresem:
 ## Fedora - obraz "Wszystko" (Everything)
 W przypadku potrzeby zaawansowanej instalacji systemu lub problemów z którymś ze środowisk graficznych, można wykorzystać obraz "Wszystko" (Everything).
 
-Aktualna wersja jest dostępna [tutaj](https://mirror.karneval.cz/pub/linux/fedora/linux/releases/34/Everything/x86_64/iso/)
+Aktualna wersja jest dostępna [tutaj](https://mirror.karneval.cz/pub/linux/fedora/linux/releases/35/Everything/x86_64/iso/)
 
 ## Alternatywne obrazy Fedory
 Alternatywne obrazy systemu dostępne są tutaj:

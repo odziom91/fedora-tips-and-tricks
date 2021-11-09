@@ -42,6 +42,8 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [2.7 fstab - obsługa montowania dysków](02_konfiguracja/07_fstab.md)
 
+[2.8 Kodeki audio/wideo](02_konfiguracja/08_audio_video_codecs.md)
+
 ## 3. Gaming
 
 [3.1 Niestandardowy kernel](03_gaming/01_kernel.md)
@@ -63,6 +65,8 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 [3.9 Obsługa padów](03_gaming/09_pady.md)
 
 [3.10 Zmodyfikowane wersje Wine i Proton](03_gaming/10_wine_proton_mods.md)
+
+[3.11 ProtonUp-Qt](03_gaming/11_protonup_qt.md)
 
 ## 4. Oprogramowanie
 

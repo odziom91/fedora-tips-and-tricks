@@ -2,7 +2,7 @@
 
 W tym rozdziale znajdziesz opcjonalne repozytoria dla oprogramowania niedostępnego w oficjalnym repozytorium i RPM Fusion.
 
-### Opera
+## Opera
 ```
 sudo tee /etc/yum.repos.d/opera.repo <<RPMREPO
 [opera]
@@ -23,7 +23,41 @@ Instalacja wersji deweloperskiej:
 sudo dnf install opera-developer
 ```
 
-### Microsoft Teams
+## Microsoft Edge
+
+Zaimportuj klucz:
+```
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+```
+
+Dodaj repozytorium:
+```
+sudo dnf config-manager --add-repo https://packages.microsoft.com/yumrepos/edge
+```
+
+Zaktualizuj repozytoria:
+```
+sudo dnf update
+```
+
+Zainstaluj przeglądarkę - dostępna jest w trzech wersjach:
+
+a) wersja stabilna
+```
+sudo dnf install microsoft-edge-stable
+```
+
+b) wersja beta
+```
+sudo dnf install microsoft-edge-beta
+```
+
+c) wersja deweloperska
+```
+sudo dnf install microsoft-edge-dev
+```
+
+## Microsoft Teams
 
 Zaimportuj klucz:
 ```
@@ -42,12 +76,17 @@ gpgkey=https://packages.microsoft.com/keys/microsoft.asc
 EOL
 ```
 
+Zaktualizuj repozytoria:
+```
+sudo dnf update
+```
+
 Zainstaluj Teams:
 ```
 sudo dnf install teams
 ```
 
-### Microsoft Visual Studio Code
+## Microsoft Visual Studio Code
 
 Zaimportuj klucz:
 ```
@@ -59,12 +98,17 @@ Dodaj repozytorium:
 sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo'
 ```
 
+Zaktualizuj repozytoria:
+```
+sudo dnf update
+```
+
 Zainstaluj Visual Studio Code:
 ```
 sudo dnf install code
 ```
 
-### Microsoft Skype
+## Microsoft Skype
 Dodaj repozytorium:
 ```
 sudo curl -o /etc/yum.repos.d/skype-stable.repo https://repo.skype.com/rpm/stable/skype-stable.repo

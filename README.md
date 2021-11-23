@@ -68,6 +68,8 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [3.11 ProtonUp-Qt](03_gaming/11_protonup_qt.md)
 
+[3.12 Epic Games Store na Linuksie przy pomocy oprogramowania Lutris](03_gaming/12_epic_games_store_lutris.md)
+
 ## 4. Oprogramowanie
 
 [4.1 Oprogramowanie audio](04_oprogramowanie/01_audio.md)

@@ -73,5 +73,5 @@ O tym jak wyłączyć znajdziesz w rozdziale 10.2.
 ***
 ```
 sudo dnf copr enable rmnscnce/kernel-lqx
-sudo dnf in kernel-lqx kernel-lqx-devel kernel-lqx-headers
+sudo dnf install kernel-lqx kernel-lqx-devel kernel-lqx-headers
 ```

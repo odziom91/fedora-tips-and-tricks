@@ -63,7 +63,7 @@ flatpak run org.ppsspp.PPSSPP
 
 Jeśli nie pamiętasz co masz zainstalowane w systemie jako Flatpak możesz skorzystać z wyświetlenia listy za pomocą komendy:
 ```
-flatpak list
+flatpak list --app
 ```
 Znajdziesz tu między innymi identyfikator programu, który będzie potrzebny przy uruchamianiu aplikacji.
 

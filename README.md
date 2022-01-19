@@ -36,13 +36,15 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [2.4 dnf - dodatkowe repozytoria](02_konfiguracja/04_dnf_dodatkowe_repozytoria.md)
 
-[2.5 Copr - oprogramowanie od społeczności](02_konfiguracja/05_copr.md)
+[2.5 Flatpak - jako alternatywna forma instalacji oprogramowania](02_konfiguracja/05_flatpak.md)
 
-[2.6 Sterowniki karty graficznej](02_konfiguracja/06_sterowniki_wideo.md)
+[2.6 Copr - oprogramowanie od społeczności](02_konfiguracja/06_copr.md)
 
 [2.7 fstab - obsługa montowania dysków](02_konfiguracja/07_fstab.md)
 
 [2.8 Kodeki audio/wideo](02_konfiguracja/08_audio_video_codecs.md)
+
+[2.9 Sterowniki karty graficznej](02_konfiguracja/09_sterowniki_wideo.md)
 
 ## 3. Gaming
 

@@ -1,4 +1,4 @@
-# Kodeki audio/wideo
+# 2.8 Kodeki audio/wideo
 
 W przypadku problemów z wyświetlaniem obrazu, zdjęć lub dźwięku w aplikacjach, czy grach istnieje prawdopodobieństwo, iż brakuje w systemie bibliotek (kodeków). Aby poprawić błąd możesz skorzystać z komend poniżej.
 

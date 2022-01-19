@@ -1,4 +1,4 @@
-# 2.5 fstab - obsługa montowania dysków
+# 2.7 fstab - obsługa montowania dysków
 
 Montowanie partycji na dyskach twardych odbywa się przy pomocy pliku fstab.
 ```

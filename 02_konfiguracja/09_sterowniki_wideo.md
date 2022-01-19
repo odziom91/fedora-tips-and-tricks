@@ -1,4 +1,4 @@
-# 2.6 Sterowniki karty graficznej
+# 2.9 Sterowniki karty graficznej
 
 ## NVidia
 Fedora jako domyślny sterownik wykorzystuje otwartoźródłowy Nouveau. Zalecane jest, aby zainstalować sterownik zamknięty od NVidia w celu znacznego wzrostu wydajności w systemie oraz w grach.

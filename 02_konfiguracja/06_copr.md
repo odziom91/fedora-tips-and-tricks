@@ -1,4 +1,10 @@
-# 2.5 - Copr - oprogramowanie od społeczności
+# 2.6 - Copr - oprogramowanie od społeczności
+
+***
+**UWAGA!**
+
+Jeśli jesteś początkującym użytkownikiem Fedory **ODRADZAMY** instalację oprogramowania z Copr. W przypadku braków oprogramowania w dnf skorzystaj z bezpieczniejszego **Flatpaka**. Używanie Copr powinno być **ostatecznością** i tylko w przypadku, gdy **WIESZ, CO ROBISZ**!
+***
 
 ## O Copr słów kilka
 Zdarza się, iż po zainstalowaniu dostępnych repozytoriów mimo wszystko pewne oprogramowanie jest niedostępne. Są to między innymi - niestandardowe kernele, czy oprogramowanie kompilowane ze źródeł, które nie posiadają paczek RPM.
@@ -6,7 +12,7 @@ W tym celu można użyć Copr - prostego w obsłudze systemu budowy pakietów, p
 
 Wbrew prostoty należy zwrócić uwagę na zagrożenia, które mogą wynikać z używania Copr.
 
-## Dlaczego **nie zaleca** się używania Copr?
+## Dlaczego **nie zaleca się** używania Copr?
 - Copr **nie jest** oficjalnie wspierany przez Fedorę.
 - Copr zawiera oprogramowanie udostępnianie przez społeczność - przez co **mogą pojawiać się błędy**.
 - Copr posiada pakiety, które mogą **mocno ingerować w system operacyjny**, co w **katastrofalnym** skutku może go **unieruchomić**.

@@ -2,12 +2,20 @@
 
 ## Discord
 Popularny komunikator tekstowo-głosowy dla graczy (i nie tylko).
+
+Instalacja przez dnf:
 ```
 sudo dnf install discord
 ```
+Instalacja przez Flatpak:
+```
+flatpak install flathub com.discordapp.Discord
+```
+
 ## Microsoft Teams
 Komunikator dla szkół i firm od firmy Microsoft.
 
+### Instalacja przez dnf
 Zaimportuj klucz:
 ```
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -28,4 +36,9 @@ EOL
 Zainstaluj Teams:
 ```
 sudo dnf install teams
+```
+
+### Instalacja przez Flatpak
+```
+flatpak install flathub com.microsoft.Teams
 ```

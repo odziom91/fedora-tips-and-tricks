@@ -2,8 +2,14 @@
 
 ## Firefox
 Przeglądarka internetowa oparta o otwartym kodzie źródłowym na silniku Gecko.
+
+Instalacja przez dnf:
 ```
 sudo dnf install firefox
+```
+Instalacja przez Flatpak:
+```
+flatpak install flathub org.mozilla.firefox
 ```
 ## Opera
 Darmowa przeglądarka internetowa na licencji freeware, tworzona i rozwijana przez norweską firmę Opera Software ASA. 
@@ -26,6 +32,12 @@ sudo dnf install opera-stable
 ```
 ## Thunderbird
 Klient poczty elektronicznej oparty o otwartym kodzie źródłowym.
+
+Instalacja przez dnf:
 ```
 sudo dnf install thunderbird
+```
+Instalacja przez Flatpak:
+```
+flatpak install flathub org.mozilla.Thunderbird
 ```

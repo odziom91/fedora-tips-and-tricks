@@ -4,7 +4,7 @@
 ***
 UWAGA!
 
-Nie działa z kernelami xanmod oraz liquorix!
+Do działania z kernelami Xanmod oraz Liquorix wymagane jest wyłaczenie SELinux - sprawdź rozdział 10.2.
 ***
 ```
 sudo dnf install @virtualization
@@ -14,7 +14,7 @@ sudo dnf install @virtualization
 ***
 UWAGA!
 
-Nie dziala z kernelem liquorix!
+Do działania z kernelami Xanmod oraz Liquorix wymagane jest wyłaczenie SELinux - sprawdź rozdział 10.2.
 ***
 ```
 sudo dnf install VirtualBox

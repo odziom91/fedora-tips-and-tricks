@@ -2,7 +2,7 @@
 
 ## Microsoft Visual Studio Code
 Oprogramowanie dla programistów od firmy Microsoft.
-
+### Instalacja przez dnf
 Zaimportuj klucz:
 ```
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -16,4 +16,9 @@ sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.m
 Zainstaluj Visual Studio Code:
 ```
 sudo dnf install code
+```
+
+### Instalacja przez Flatpak
+```
+flatpak install flathub com.visualstudio.code
 ```

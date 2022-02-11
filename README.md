@@ -44,7 +44,11 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [2.8 Kodeki audio/wideo](02_konfiguracja/08_audio_video_codecs.md)
 
-[2.9 Sterowniki karty graficznej](02_konfiguracja/09_sterowniki_wideo.md)
+[2.9.1 Sterowniki karty graficznej - NVidia](02_konfiguracja/091_sterowniki_wideo_nvidia.md)
+
+[2.9.2 Sterowniki karty graficznej - AMD](02_konfiguracja/092_sterowniki_wideo_amd.md)
+
+[2.9.3 Sterowniki karty graficznej - Intel](02_konfiguracja/093_sterowniki_wideo_intel.md)
 
 ## 3. Gaming
 

@@ -125,8 +125,8 @@ GeForce GT 640M LE<br/><br/>
 
 ```
 sudo dnf update -y
-sudo dnf install akmod-nvidia
-sudo dnf install xorg-x11-drv-nvidia-cuda
+sudo dnf install xorg-x11-drv-nvidia-470xx akmod-nvidia-470xx
+sudo dnf install xorg-x11-drv-nvidia-470xx-cuda
 ```
 
 ## NVidia - seria 400/500 oraz mobilne wersje serii 600

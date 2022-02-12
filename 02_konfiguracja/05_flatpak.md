@@ -15,12 +15,12 @@ Istnieją dwie gałęzie repozytorium Flathub - **stable** i **beta**. Oba repoz
 
 Flathub Stable dodasz przy pomocy komendy:
 ```
-flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 
 Flathub Beta dodasz przy pomocy komendy:
 ```
-flatpak remote-add flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo
+flatpak remote-add --if-not-exists flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo
 ```
 
 ## Podstawy obsługi Flatpak

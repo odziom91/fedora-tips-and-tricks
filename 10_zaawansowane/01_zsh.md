@@ -4,7 +4,7 @@ zsh jest jedną z wielu powłók systemowych nadającą się do interaktywnej pr
 ## Instalacja zsh
 Aby zainstalować powłokę zsh należy użyć komendy:
 ```
-sudo dnf install zsh
+sudo dnf install zsh util-linux-user
 ```
 Po zainstalowaniu zsh należy ustawić go jako główną powłokę systemową:
 ```

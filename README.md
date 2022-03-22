@@ -22,7 +22,9 @@ Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczno�
 
 [1.4 Instalacja systemu Fedora 35](01_instalacja/04_instalacja_fedora_35.md)
 
-[1.5 Aktualizacja systemu Fedora 34 do wersji 35](01_instalacja/05_update_34_do_35.md)
+[1.5 Aktualizacja systemu Fedora 35 do wersji 36(beta)](01_instalacja/05_update_35_do_36.md)
+
+[1.98 Aktualizacja systemu Fedora 34 do wersji 35 [wpis archiwalny]](01_instalacja/98_update_34_do_35.md)
 
 [1.99 Instalacja systemu Fedora 34 [poprzednia wersja - niezalecane, wpis archiwalny]](01_instalacja/99_instalacja_fedora_34.md)
 

@@ -10,7 +10,7 @@ Data wydania: 2.11.2021
 Autor: OdzioM
 
 Wszelkie błędy i sugestie proszę zgłaszać na Discordzie "Polska Społeczność Linuksa", kanał #fedora:
-[https://discord.gg/tfsUgwPyVx](https://discord.gg/tfsUgwPyVx)
+[https://discord.gg/AnG2Kv6axS](https://discord.gg/AnG2Kv6axS)
 
 ## 1. Instalacja
 
